@@ -1,0 +1,14 @@
+# Ide
+*.iml
+*.log
+/captures
+.idea/*
+!.idea/codeStyles/
+
+# Os
+.DS_Store
+
+# Gradle
+.gradle
+**/local.properties
+**/build
